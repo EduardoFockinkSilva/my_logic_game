@@ -1,2 +1,0 @@
-[console_scripts]
-logic-game = game.main:main

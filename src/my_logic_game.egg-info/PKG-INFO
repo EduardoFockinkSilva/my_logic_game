@@ -1,5 +1,0 @@
-Metadata-Version: 2.4
-Name: my_logic_game
-Version: 0.1.0
-Requires-Dist: ursina>=0.10.0
-Dynamic: requires-dist
